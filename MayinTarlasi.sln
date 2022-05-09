@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{15709A95-1695-4FCF-9A86-0D71A9C6E52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dnm", "dnm\dnm.csproj", "{D7DEE25A-66FA-418C-80DA-54D943E2D9DD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Mineswepeer Setup", "Mineswepeer Setup\Mineswepeer Setup.vdproj", "{8C3C0D63-F8FE-4372-B36C-2769F0696FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15709A95-1695-4FCF-9A86-0D71A9C6E52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15709A95-1695-4FCF-9A86-0D71A9C6E52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15709A95-1695-4FCF-9A86-0D71A9C6E52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15709A95-1695-4FCF-9A86-0D71A9C6E52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DEE25A-66FA-418C-80DA-54D943E2D9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DEE25A-66FA-418C-80DA-54D943E2D9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DEE25A-66FA-418C-80DA-54D943E2D9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DEE25A-66FA-418C-80DA-54D943E2D9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3C0D63-F8FE-4372-B36C-2769F0696FDE}.Debug|Any CPU.ActiveCfg = Release
+		{8C3C0D63-F8FE-4372-B36C-2769F0696FDE}.Debug|Any CPU.Build.0 = Release
+		{8C3C0D63-F8FE-4372-B36C-2769F0696FDE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A58A1F9-CA6C-46FE-838D-BA5B3A7A8114}
+	EndGlobalSection
+EndGlobal
